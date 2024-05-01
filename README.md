@@ -1,3 +1,4 @@
 # Mezuniyet-Projesi
 Mevzuniyet
-hava kirliliği projem
+teklonojı bağımlılığı projem
+
